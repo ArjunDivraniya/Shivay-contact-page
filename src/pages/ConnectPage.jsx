@@ -25,7 +25,7 @@ export default function ConnectPage() {
       <div id="connect" className="px-4 py-6">
         <h2 className="text-xl font-semibold mb-4 text-yellow-400">Quick Connect</h2>
         <div className="space-y-4">
-          <ContactCard icon="call" title="Call Now" subtitle="+91 78178 87973" link="tel:+919106572374" color="yellow" />
+          <ContactCard icon="call" title="Call Now" subtitle="+91 9106572374" link="tel:+919106572374" color="yellow" />
           <ContactCard icon="whatsapp" title="WhatsApp Chat" subtitle="Quick Response" link="https://wa.me/919106572374" color="green" />
           <ContactCard icon="instagram" title="Instagram" subtitle="@shivayvideo" link="https://instagram.com/shivayvideo" color="pink" />
           <ContactCard icon="youtube" title="YouTube" subtitle="Watch our work" link="https://www.youtube.com/channel/UCW7_3b2-qKL2JE19Q3BpdZQ" color="red" />
