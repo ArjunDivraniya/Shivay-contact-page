@@ -37,7 +37,7 @@ export default function StickyCTA() {
 
       {/* WhatsApp Icon Button */}
       <a
-        href="https://wa.me/919876543210"
+        href="https://wa.me/919106572374"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Chat on WhatsApp"
