@@ -29,7 +29,7 @@ export default function AboutSection() {
       <div className="space-y-2 text-sm text-white/70">
         <div className="flex items-center justify-center gap-2">
           <FaCheckCircle className="text-yellow-400" />
-          <span>5+ Years of Experience in Film & Photography</span>
+          <span>10+ Years of Experience in Film & Photography</span>
         </div>
         <div className="flex items-center justify-center gap-2">
           <FaCheckCircle className="text-yellow-400" />
